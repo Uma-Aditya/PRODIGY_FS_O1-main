@@ -138,8 +138,8 @@ It serves as a strong foundation for building secure and scalable web applicatio
 
 ## 🙌 Author
 
-👤 **Mylapalli Yesebu**  
-📧 [yesebumylapalli08@gmail.com](mailto:yesebumylapalli08@gmail.com)  
-🌐 [GitHub Profile](https://github.com/MylapalliYesebu)
+👤 **Uma-Aditya**  
+📧 [mohanaditya706@gmail.com](mailto:mohanaditya706@gmail.com)  
+🌐 [GitHub Profile](https://github.com/Uma-Aditya)
 
 If you liked this project, feel free to connect or star the repo ⭐
