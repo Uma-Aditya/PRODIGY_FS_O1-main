@@ -76,7 +76,7 @@ To clone and run any project locally:
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/MylapalliYesebu/Prodigy-Internship.git
+   git clone https://github.com/Uma-Aditya/Prodigy-Internship.git
    ```
 
 2. **Navigate to the Project Folder**
@@ -115,7 +115,7 @@ For better visualization.
 
 ## 📬 Contact & Contributions
 
-🔗 **GitHub**: [MylapalliYesebu](https://github.com/MylapalliYesebu)  
-📧 **Email**: <yesebumylapalli08@gmail.com>  
+🔗 **GitHub**: [Uma-Aditya](https://github.com/Uma-Aditya)  
+📧 **Email**: <mohanaditya706@gmail.com>  
 
 Feel free to fork, contribute, or reach out for collaboration! 🚀
